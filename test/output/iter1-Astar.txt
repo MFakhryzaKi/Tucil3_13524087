@@ -1,0 +1,20 @@
+Algoritma : A*
+Heuristik : Manhattan distance
+Solusi Yang Ditemukan : RULUDRUR
+Cost dari Solusi : 87
+Waktu Eksekusi : 2999 microseconds
+Jumlah Iterasi : 12
+
+Urutan Iterasi:
+Iter 1 : (6, 2)
+Iter 2 : (6, 4)
+Iter 3 : (4, 4)
+Iter 4 : (4, 2)
+Iter 5 : (4, 6)
+Iter 6 : (2, 2)
+Iter 7 : (2, 6)
+Iter 8 : (6, 2)
+Iter 9 : (6, 4)
+Iter 10 : (4, 4)
+Iter 11 : (2, 2)
+Iter 12 : (4, 6)

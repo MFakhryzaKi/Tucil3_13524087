@@ -1,0 +1,33 @@
+Algoritma : GBFS
+Heuristik : Euclidean distance
+Solusi Yang Ditemukan : U
+Cost dari Solusi : 504
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 2
+
+Initial
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * * * * * X 
+X Z * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 1 : U
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X Z * * * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+

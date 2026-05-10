@@ -1,0 +1,34 @@
+Algoritma : GBFS
+Heuristik : Manhattan distance
+Solusi Yang Ditemukan : URDRUDRURDLDRD
+Cost dari Solusi : 275
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 26
+
+Urutan Iterasi:
+Iter 1 : (14, 2)
+Iter 2 : (2, 2)
+Iter 3 : (2, 6)
+Iter 4 : (9, 6)
+Iter 5 : (9, 7)
+Iter 6 : (5, 7)
+Iter 7 : (5, 10)
+Iter 8 : (5, 6)
+Iter 9 : (2, 6)
+Iter 10 : (5, 6)
+Iter 11 : (11, 10)
+Iter 12 : (2, 2)
+Iter 13 : (9, 6)
+Iter 14 : (9, 7)
+Iter 15 : (9, 6)
+Iter 16 : (9, 6)
+Iter 17 : (11, 7)
+Iter 18 : (12, 7)
+Iter 19 : (12, 9)
+Iter 20 : (2, 9)
+Iter 21 : (2, 14)
+Iter 22 : (3, 14)
+Iter 23 : (3, 11)
+Iter 24 : (4, 11)
+Iter 25 : (4, 13)
+Iter 26 : (14, 13)

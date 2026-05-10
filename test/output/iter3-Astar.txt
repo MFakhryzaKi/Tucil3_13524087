@@ -1,0 +1,36 @@
+Algoritma : A*
+Heuristik : Euclidean distance
+Solusi Yang Ditemukan : RURULDL
+Cost dari Solusi : 91
+Waktu Eksekusi : 14984 microseconds
+Jumlah Iterasi : 28
+
+Urutan Iterasi:
+Iter 1 : (7, 2)
+Iter 2 : (10, 2)
+Iter 3 : (7, 7)
+Iter 4 : (6, 7)
+Iter 5 : (6, 5)
+Iter 6 : (8, 5)
+Iter 7 : (6, 10)
+Iter 8 : (8, 6)
+Iter 9 : (3, 5)
+Iter 10 : (4, 10)
+Iter 11 : (10, 10)
+Iter 12 : (10, 6)
+Iter 13 : (8, 2)
+Iter 14 : (3, 3)
+Iter 15 : (6, 10)
+Iter 16 : (3, 5)
+Iter 17 : (8, 2)
+Iter 18 : (3, 6)
+Iter 19 : (3, 9)
+Iter 20 : (10, 10)
+Iter 21 : (4, 4)
+Iter 22 : (5, 4)
+Iter 23 : (3, 9)
+Iter 24 : (3, 4)
+Iter 25 : (3, 6)
+Iter 26 : (3, 9)
+Iter 27 : (5, 6)
+Iter 28 : (5, 2)

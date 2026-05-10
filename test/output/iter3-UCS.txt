@@ -1,0 +1,38 @@
+Algoritma : UCS
+Heuristik : -
+Solusi Yang Ditemukan : RURULDL
+Cost dari Solusi : 91
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 30
+
+Urutan Iterasi:
+Iter 1 : (7, 2)
+Iter 2 : (10, 2)
+Iter 3 : (7, 7)
+Iter 4 : (6, 7)
+Iter 5 : (6, 5)
+Iter 6 : (6, 10)
+Iter 7 : (8, 5)
+Iter 8 : (8, 6)
+Iter 9 : (4, 10)
+Iter 10 : (10, 10)
+Iter 11 : (3, 5)
+Iter 12 : (10, 6)
+Iter 13 : (6, 10)
+Iter 14 : (8, 2)
+Iter 15 : (3, 3)
+Iter 16 : (3, 5)
+Iter 17 : (8, 2)
+Iter 18 : (3, 6)
+Iter 19 : (3, 9)
+Iter 20 : (10, 10)
+Iter 21 : (3, 9)
+Iter 22 : (4, 4)
+Iter 23 : (5, 4)
+Iter 24 : (3, 9)
+Iter 25 : (3, 6)
+Iter 26 : (3, 4)
+Iter 27 : (5, 6)
+Iter 28 : (3, 9)
+Iter 29 : (10, 10)
+Iter 30 : (5, 2)

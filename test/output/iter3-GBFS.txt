@@ -1,0 +1,10 @@
+Algoritma : GBFS
+Heuristik : Euclidean distance
+Solusi Yang Ditemukan : U
+Cost dari Solusi : 504
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 2
+
+Urutan Iterasi:
+Iter 1 : (7, 2)
+Iter 2 : (5, 2)

@@ -1,0 +1,262 @@
+Algoritma : UCS
+Heuristik : -
+Solusi Yang Ditemukan : URDRUDRURDLDRD
+Cost dari Solusi : 275
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 55
+
+Initial
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X Z * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 1 : U
+X X X X X X X X X X X X X X X 
+X Z * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 2 : R
+X X X X X X X X X X X X X X X 
+X * * * * Z X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 3 : D
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X Z * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 4 : R
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * Z X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 5 : U
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * Z * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 6 : D
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * Z * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 7 : R
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * Z X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 8 : U
+X X X X X X X X X X X X X X X 
+X * * * * * X * Z * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 9 : R
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * Z X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 10 : D
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 Z X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 11 : L
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X Z * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 12 : D
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X Z * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 13 : R
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * Z X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * O * X 
+X X X X X X X X X X X X X X X 
+
+Step 14 : D
+X X X X X X X X X X X X X X X 
+X * * * * * X * * * * * * * X 
+X * X X X * X * * X * * 2 * X 
+X * X * * * X * * X * * * X X 
+X 0 X * X * * * * * X * * * X 
+X * X * X * * X * * X * * * X 
+X * * * X * * X * * X * * * X 
+X * X * X * 1 X * * X * * * X 
+X * X * X * * X * * X X * * X 
+X * X * * X * X * * X * * * X 
+X * X * * X * * * * X * * * X 
+X * * * X * * * * X X * * * X 
+X * X X X X X * X * X * * * X 
+X * * * * * * X * * X * Z * X 
+X X X X X X X X X X X X X X X 
+

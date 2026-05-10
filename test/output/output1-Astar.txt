@@ -1,0 +1,88 @@
+Algoritma : A*
+Heuristik : Manhattan distance
+Solusi Yang Ditemukan : RULUDRUR
+Cost dari Solusi : 87
+Waktu Eksekusi : 2999 microseconds
+Jumlah Iterasi : 12
+
+Initial
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * * * O X 
+X 1 * * * L X 
+X Z * * X * X 
+X X X X X X X 
+
+Step 1 : R
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * * * O X 
+X 1 * * * L X 
+X * * Z X * X 
+X X X X X X X 
+
+Step 2 : U
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * Z * O X 
+X 1 * * * L X 
+X * * * X * X 
+X X X X X X X 
+
+Step 3 : L
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X Z * * * O X 
+X 1 * * * L X 
+X * * * X * X 
+X X X X X X X 
+
+Step 4 : U
+X X X X X X X 
+X Z * * * * X 
+X * * X * * X 
+X * * * * O X 
+X 1 * * * L X 
+X * * * X * X 
+X X X X X X X 
+
+Step 5 : D
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * * * O X 
+X 1 * * * L X 
+X Z * * X * X 
+X X X X X X X 
+
+Step 6 : R
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * * * O X 
+X 1 * * * L X 
+X * * Z X * X 
+X X X X X X X 
+
+Step 7 : U
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * Z * O X 
+X 1 * * * L X 
+X * * * X * X 
+X X X X X X X 
+
+Step 8 : R
+X X X X X X X 
+X 0 * * * * X 
+X * * X * * X 
+X * * * * Z X 
+X 1 * * * L X 
+X * * * X * X 
+X X X X X X X 
+

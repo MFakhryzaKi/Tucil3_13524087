@@ -1,0 +1,111 @@
+Algoritma : A*
+Heuristik : Euclidean distance
+Solusi Yang Ditemukan : RURULDL
+Cost dari Solusi : 91
+Waktu Eksekusi : 14984 microseconds
+Jumlah Iterasi : 28
+
+Initial
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * * * * * X 
+X Z * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 1 : R
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * Z X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 2 : U
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * Z * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 3 : R
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * * * * Z X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 4 : U
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * Z X 
+X O * * * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 5 : L
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X Z * * * * * * X 
+X O * * * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 6 : D
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X O * Z * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+
+Step 7 : L
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X * * * * * * * X X 
+X X X * * * * * * * X 
+X Z * * * * X * * * X 
+X * * X * * * * * * X 
+X * * * * * * X * * X 
+X * * * * * X * * * X 
+X * * * X * * * * * X 
+X * * * * * * * * * X 
+X X X X X X X X X X X 
+

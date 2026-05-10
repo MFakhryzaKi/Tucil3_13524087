@@ -1,0 +1,17 @@
+Algoritma : GBFS
+Heuristik : Manhattan distance
+Solusi Yang Ditemukan : RULUDRUR
+Cost dari Solusi : 87
+Waktu Eksekusi : 0 microseconds
+Jumlah Iterasi : 9
+
+Urutan Iterasi:
+Iter 1 : (6, 2)
+Iter 2 : (6, 4)
+Iter 3 : (4, 4)
+Iter 4 : (4, 2)
+Iter 5 : (2, 2)
+Iter 6 : (6, 2)
+Iter 7 : (6, 4)
+Iter 8 : (4, 4)
+Iter 9 : (4, 6)
